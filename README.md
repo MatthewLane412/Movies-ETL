@@ -3,4 +3,8 @@
 
 
 
-  ![employee_titles](/Data/grouped_employee_titles.PNG)
+  ![employee_titles](/Resources/movies_query.PNG)
+  
+  
+  
+    ![employee_titles](/Resources/ratings_query.PNG)
